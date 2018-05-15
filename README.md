@@ -11,7 +11,7 @@
 - Add UIViewControllers that correspond to each tab
 - Give each UIViewController a unique Storyboard ID
 
-[Image of storyboard with description of each view]
+![Storyboard](https://github.com/anasamanp/CustomTabBar/blob/master/storyboard.png)
 
 ## Step 2: Create IBOutlets
 
