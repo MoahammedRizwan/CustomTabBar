@@ -1,5 +1,7 @@
 # Custom Tab Bar using UIViewController
 
+![customtabbar.git](https://github.com/anasamanp/CustomTabBar/blob/master/CustomTabBar_320.gif)
+
 ## Step 1: Setup Storyboard
 
 - Add a UIViewController to the storyboard to function as a Tab bar view controller *(CustomTabBarViewController)*
@@ -214,3 +216,6 @@ Now `didPressTab` method looks like:
 ```
 
 ## Step 10: Build and Run the app :)
+
+
+
